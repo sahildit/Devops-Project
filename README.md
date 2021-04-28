@@ -4,5 +4,11 @@ Initial Jenkins setup
 
 ![image](https://user-images.githubusercontent.com/47186806/116316504-f6641d80-a7a9-11eb-8947-d1916996b918.png)
 
+
 AWS EC2 
 ![image](https://user-images.githubusercontent.com/47186806/116321088-5c07d800-a7b1-11eb-8bf8-29d8d2cbbd5c.png)
+
+
+MobaXterm was used in order to tabbed a SSH client and their networks for remote computing. fox example public IP4 address for different EC2 instances.
+
+![image](https://user-images.githubusercontent.com/47186806/116329128-7dbd8b00-a7c2-11eb-83ce-9cb68df2bdb0.png)
