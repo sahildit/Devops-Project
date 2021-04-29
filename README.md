@@ -7,7 +7,7 @@ Jenkins setup.
 
 
 
-AWS EC2 
+AWS EC2.
 ![image](https://user-images.githubusercontent.com/47186806/116321088-5c07d800-a7b1-11eb-8bf8-29d8d2cbbd5c.png)
 ![image](https://user-images.githubusercontent.com/47186806/116336991-5cb06680-a7d1-11eb-9f56-173d97ed2a71.png)
 
